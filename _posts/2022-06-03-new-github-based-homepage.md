@@ -13,6 +13,6 @@ The repo for this page is public, so check it out [here](https://github.com/fehl
 
 Writing posts on my mobile also works nice! For example, this particular part of the post was done using [mGit](https://github.com/maks/MGit) &  [markor](https://github.com/gsantner/markor) for Android. Can take a picture of me in the sun and add it right in markor:
 
-![IMG20220604165537](../_assets/IMG20220604165537.jpg)
+![IMG20220604165537](/_assets/IMG20220604165537.jpg)
 
 After having tried this out a bit, I'm ready to add some more about what I do and get the rest of the page up to date! 
