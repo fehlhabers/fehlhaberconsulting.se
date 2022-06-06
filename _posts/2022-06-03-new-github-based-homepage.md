@@ -15,6 +15,6 @@ When I discovered [Jekyll](https://github.com/jekyll/jekyll) and that it can be 
 
 The repo for this page is public, so check it out [here](https://github.com/fehlhabers/FehlhaberConsulting)
 
-Writing posts on my mobile also works nice! For example, this particular part of the post was done using [mGit](https://github.com/maks/MGit) &  [markor](https://github.com/gsantner/markor) for Android. Can take a picture of me in the sun and add it right in markor:
+Writing posts on my mobile also works nice! For example, this particular part of the post was done using [mGit](https://github.com/maks/MGit) &  [markor](https://github.com/gsantner/markor) for Android. Can take a picture of me in the sun and add it right in markor! 
 
 After having tried this out a bit, I'm ready to add some more about what I do and get the rest of the page up to date! 

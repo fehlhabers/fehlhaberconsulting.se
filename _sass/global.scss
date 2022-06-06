@@ -13,7 +13,7 @@ html, body {
 }
 
 .site-title {
-  @include relative-font-size(2);
+  @include relative-font-size(1.7);
   font-weight: 400;
   letter-spacing: -1px;
   margin-bottom: 0;
