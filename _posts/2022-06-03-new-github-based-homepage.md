@@ -13,7 +13,7 @@ I work a lot with teams, cloud architecture and backend functionality, but have 
 
 When I discovered [Jekyll](https://github.com/jekyll/jekyll) and that it can be hosted right out of GitHub, this fit me quite perfectly!
 
-The repo for this page is public, so check it out [here](https://github.com/fehlhabers/FehlhaberConsulting)
+The repo for this page is public, so check it out [here](https://github.com/fehlhabers/fehlhaberconsulting.se)
 
 Writing posts on my mobile also works nice! For example, this particular part of the post was done using [mGit](https://github.com/maks/MGit) &  [markor](https://github.com/gsantner/markor) for Android. Can take a picture of me in the sun and add it right in markor! 
 
