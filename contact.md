@@ -4,4 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-:point_right: Check out my [LinkedIn profile](https://www.linkedin.com/in/kajfehlhaber/) while I prepare more content! :point_left:
+Fehlhaber Consulting operates in the Gothenburg area.
+
+| Contact info   |  |
+|---|---|
+| E-mail   | info@fehlhaberconsulting.se  |
+| LinkedIn  | [linkedin.com/in/kajfehlhaber](https://www.linkedin.com/in/kajfehlhaber/)  |
