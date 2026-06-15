@@ -3,28 +3,53 @@ title: About
 type: about
 ---
 
-Having successful development teams that have the ability to fully leverage DevOps principles and Cloud computing in your organisation requires hard work and the right people to make it happen. Today, more than ever before, it's crucial to have people that combine a large set of both soft and hard skills when having the right organisation, culture and architecture can be the difference between success and failure. Here at Fehlhaber Consulting, Kaj wants to showcase what you can do to make your organisation or team better or, if you need it, reach out to get help if you find yourself in need of:
+Success in modern software organisations demands more than technical skill. It requires the ability to navigate complexity, build trust across teams, and create environments where both people and technology thrive. Fehlhaber Consulting is built around two senior profiles that together cover the full spectrum.
 
-Coaching one or many teams to become highly productive teams
+## Katharina Fehlhaber — Structure, Clarity, Momentum
 
-Designing a system or Cloud architecture
+<div class="profile-card">
+<div class="profile-layout">
+<div class="profile-photo">
+<img src="/images/katharina.jpeg" alt="Katharina Fehlhaber">
+</div>
+<div class="profile-text">
 
-Platform engineering within the CNCF sphere
+Katharina thrives in complex environments where many questions, projects and stakeholders need to be held together. Her strength lies in creating structure, simplifying what feels difficult and helping people find paths forward. She has a natural ability to quickly understand different contexts, see the big picture and still catch the details that make a difference.
 
-Boosting a team or organization
+Over the years, Katharina has repeatedly become the person colleagues turn to for support, guidance and problem-solving. She enjoys sharing knowledge, creating clarity and helping others succeed in their work. For her, leadership isn't about titles — it's about taking responsibility, building trust and making people feel secure even when the situation is challenging.
 
-### Building it up from the roots
-Kaj has a proven background of combining a profound DevOps and agile mindset together with a keen problem solving and architectural thinking. The most common setup is to work embedded in a team and boost that team and the organization around it by not only delivering solutions to complex problems, but also by taking absolute ownership and instilling trust in stakeholders. A natural activity while being a team member is to be active in CoPs to also spread the good practices outside of the teams perimeter. Being humble and experimenting a lot are all traits that can be expected.
+Katharina is engaged, solution-oriented and used to managing multiple parallel assignments without losing focus on quality or people. She values relationships highly and strives to contribute with positive energy, collaboration and an inclusive approach. The most important thing for her is to leave organisations, teams and people stronger than when she arrived.
 
-### Technology changes
-You could say that Fehlhaber Consulting specializes in generalisation, to be ["T-shaped"](https://teashaped.dev).
+With a background as Product Manager in the automotive industry and extensive experience as Project Manager, Product Owner and Agile Management Consultant across large-scale product organisations, Katharina brings deep expertise in product development, agile transformation and organisational change.
 
-*Java* has been the main backbone of Kaj's experience, but with the increased focus on cloud development there are so many other technologies which have been part of the regular go-to bag: *Golang*, *Rust*, *Python* & *Bash* to name some languages. But today, it's so much more than just languages! Knowing *CI/CD* tooling, *containerization & orchestration* and working with *Infrastructure as Code (IaC)* is just as important!
+[Katharina on LinkedIn →](https://www.linkedin.com/in/katharina-fehlhaber/)
 
-Kaj is a technology agnostic builder.
+</div>
+</div>
+</div>
 
-### More about Kaj
-| ![Kaj](/images/kaj.jpg)<br>Kaj Fehlhaber   |  With 15 years of experience within software and having been<br> both a technical & team leader for multiple successful teams and products,<br> Kaj is unafraid of setting paths in unknown areas and leading teams through these<br><br>For up to date details about experience and skills, please visit [my LinkedIn](https://www.linkedin.com/in/kajfehlhaber/) <br> |
-|--------------- | --------------- |
+## Kaj Fehlhaber — Platforms, AI, Culture
+
+<div class="profile-card">
+<div class="profile-layout">
+<div class="profile-photo">
+<img src="/images/kaj.jpg" alt="Kaj Fehlhaber">
+</div>
+<div class="profile-text">
+
+Kaj is a creative software consultant with the ability to quickly understand domains and problems — and communicate clearly around them. He takes active roles in Communities of Practice, shares solutions and ways of working that benefit beyond his immediate team.
+
+His focus has evolved beyond specific programming languages toward architecting developer platforms, building quality with AI and creating strong team cultures. Kaj has led the groundwork for an Internal Developer Platform in the connected vehicle space, designing how teams consume platform services with high focus on developer feedback and community-building around the platform.
+
+Kaj is a strong proponent of AI-enabled development — not just code completion, but transforming how teams work with AI agents, swarming on architecture and building guardrails for quality. He's equally passionate about ensemble programming, psychological safety and creating collaborative environments where teams continuously learn and improve.
+
+With 15+ years of experience spanning cloud-native architecture, team leadership and platform engineering, Kaj combines a profound DevOps mindset with keen architectural thinking. He describes himself as a technology-agnostic builder — the right tool for the right problem.
+
+Read Kaj's thoughts at [teashaped.dev →](https://teashaped.dev)
+<br>[Kaj on LinkedIn →](https://www.linkedin.com/in/kajfehlhaber/)
+
+</div>
+</div>
+</div>
 
 Fehlhaber Consulting AB is the company behind [Teashaped Development](https://teashaped.dev).
