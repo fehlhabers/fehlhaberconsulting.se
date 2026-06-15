@@ -1,0 +1,63 @@
+# Hugo configuration file
+title: Fehlhaber Consulting
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+enableInlineShortcodes: true
+
+menu:
+  main:
+    - name: About
+      pageRef: /about
+      weight: 1
+    - name: Services
+      pageRef: /services
+      weight: 2
+    - name: Contact
+      pageRef: /contact
+      weight: 3
+    - name: Blog
+      url: "https://teashaped.dev"
+      weight: 4
+    - name: Search
+      weight: 5
+      params:
+        type: search
+    - name: GitHub
+      weight: 6
+      url: "https://github.com/kejne"
+      params:
+        icon: github
+    - name: LinkedIn
+      weight: 7
+      url: "https://www.linkedin.com/in/kajfehlhaber/"
+      params:
+        icon: linkedin
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: fc-logo-192x192.png
+      dark: fc-logo-192x192.png
+      link: /
+      width: 40
+      height: 40
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+  page:
+    width: wide
+
+  editURL:
+    enable: false
