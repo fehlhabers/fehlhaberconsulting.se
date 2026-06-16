@@ -1,0 +1,15 @@
+version: 2
+updates:
+  - package-ecosystem: gomod
+    directory: /
+    schedule:
+      interval: monthly
+      time: "06:00"
+      timezone: UTC
+      day: monday
+    allow:
+      - dependency-type: "all"
+    commit-message:
+      prefix: chore
+      include: scope
+    open-pull-requests-limit: 1
