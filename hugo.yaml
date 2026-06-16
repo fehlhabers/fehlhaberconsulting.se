@@ -32,21 +32,7 @@ menu:
       weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 6
-      url: "https://github.com/kejne"
-      params:
-        icon: github
-    - name: LinkedIn (Kaj)
-      weight: 7
-      url: "https://www.linkedin.com/in/kajfehlhaber/"
-      params:
-        icon: linkedin
-    - name: LinkedIn (Katharina)
-      weight: 8
-      url: "https://www.linkedin.com/in/katharina-fehlhaber/"
-      params:
-        icon: linkedin
+
 
 params:
   navbar:

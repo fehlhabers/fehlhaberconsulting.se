@@ -8,7 +8,7 @@ Two senior profiles, different strengths, one conviction: the best outcomes come
 
 **Katharina** works on the organisational side. Complex stakeholder landscapes, parallel initiatives, competing priorities. She creates structure, builds alignment and keeps things moving. Product strategy, agile transformation, backlog and prioritisation, process design, leadership coaching. Her presence leaves teams feeling clear, safe and capable.
 
-**Kaj** works on the technical side. Platforms, AI-enabled workflows, cloud-native systems and the engineering culture that makes teams excel. Internal developer platforms, Kubernetes, CI/CD, GitOps, ensemble programming, AI agents. He embeds with teams, experiments and shares what works.
+**Kaj** works on the technical side as a senior architect and engineer with deep experience across the full stack. He shapes platforms, AI-enabled workflows and the engineering culture that makes teams excel. He embeds with teams, experiments and shares what works.
 
 ## The multiplier effect
 
