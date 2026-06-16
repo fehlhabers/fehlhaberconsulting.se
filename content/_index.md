@@ -1,6 +1,6 @@
 # Two forces. One mission.
 
-Senior consultants with 15+ years each — combining deep technical architecture with organisational mastery.
+Senior consultants with 15+ years each, bringing together deep technical architecture and organisational mastery.
 
 {{< cards >}}
   {{< card link="about" title="About" subtitle="Meet Katharina & Kaj" icon="user-group" >}}
@@ -10,7 +10,7 @@ Senior consultants with 15+ years each — combining deep technical architecture
 
 ## Where impact happens
 
-We cover the full spectrum of what makes technology organisations succeed — from the code to the culture, from the platform to the people.
+We cover the full spectrum of what makes technology organisations succeed. Code, culture, platforms, people.
 
 {{< hextra/feature-grid cols="3" >}}
   {{< hextra/feature-card
@@ -20,7 +20,7 @@ We cover the full spectrum of what makes technology organisations succeed — fr
   {{< hextra/feature-card
       title="AI-enabled organisations"
       icon="sparkles"
-      subtitle="Guiding teams beyond code completion to AI-native workflows — agents, swarming, guardrails, cultural shift." >}}
+      subtitle="Guiding teams beyond code completion to AI-native workflows. Agents, swarming, guardrails and the cultural shift that makes it stick." >}}
   {{< hextra/feature-card
       title="Product leadership"
       icon="view-boards"
@@ -32,7 +32,7 @@ We cover the full spectrum of what makes technology organisations succeed — fr
   {{< hextra/feature-card
       title="DevOps & delivery"
       icon="lightning-bolt"
-      subtitle="CI/CD, GitOps, trunk-based development, IaC — fast, safe, repeatable delivery pipelines." >}}
+      subtitle="CI/CD, GitOps, trunk-based development, IaC. Fast, safe, repeatable delivery pipelines." >}}
   {{< hextra/feature-card
       title="Team building & culture"
       icon="user-group"
@@ -41,9 +41,7 @@ We cover the full spectrum of what makes technology organisations succeed — fr
 
 ## The multiplier
 
-Most consultancies bring one thing. We bring two — and the overlap is where the real value lives.
-
-Technical architecture without organisational awareness creates systems nobody adopts. Organisational change without technical depth misses what's actually broken. Every assignment, regardless of who's embedded, benefits from both perspectives. Platform designs get informed by how people actually work. Agile transformations get grounded in what's technically possible. Organisational strategies get pressure-tested against real engineering constraints — and vice versa.
+We think together across domains. Technical designs get questioned through an organisational lens. Strategic plans get pressure-tested against engineering reality. This cross-pollination happens naturally because we talk constantly and challenge each other. The work is sharper for it.
 
 ## Learn more
 

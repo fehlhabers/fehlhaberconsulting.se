@@ -3,9 +3,9 @@ title: About
 type: about
 ---
 
-Success in modern software organisations demands more than technical skill. It requires the ability to navigate complexity, build trust across teams, and create environments where both people and technology thrive. Fehlhaber Consulting is built around two senior profiles that together cover the full spectrum.
+Success in modern software organisations takes more than technical skill. It takes the ability to navigate complexity, build trust across teams and create environments where both people and technology thrive. Fehlhaber Consulting is built around two senior profiles that together cover the full spectrum.
 
-## Katharina Fehlhaber — Structure, Clarity, Momentum
+## Katharina Fehlhaber: Structure, Clarity, Momentum
 
 <div class="profile-card">
 <div class="profile-layout">
@@ -16,7 +16,7 @@ Success in modern software organisations demands more than technical skill. It r
 
 Katharina thrives in complex environments where many questions, projects and stakeholders need to be held together. Her strength lies in creating structure, simplifying what feels difficult and helping people find paths forward. She has a natural ability to quickly understand different contexts, see the big picture and still catch the details that make a difference.
 
-Over the years, Katharina has repeatedly become the person colleagues turn to for support, guidance and problem-solving. She enjoys sharing knowledge, creating clarity and helping others succeed in their work. For her, leadership isn't about titles — it's about taking responsibility, building trust and making people feel secure even when the situation is challenging.
+Over the years, Katharina has repeatedly become the person colleagues turn to for support, guidance and problem-solving. She enjoys sharing knowledge, creating clarity and helping others succeed in their work. For her, leadership is not about titles. It is about taking responsibility, building trust and making people feel secure even when the situation is challenging.
 
 Katharina is engaged, solution-oriented and used to managing multiple parallel assignments without losing focus on quality or people. She values relationships highly and strives to contribute with positive energy, collaboration and an inclusive approach. The most important thing for her is to leave organisations, teams and people stronger than when she arrived.
 
@@ -28,7 +28,7 @@ With a background as Product Manager in the automotive industry and extensive ex
 </div>
 </div>
 
-## Kaj Fehlhaber — Platforms, AI, Culture
+## Kaj Fehlhaber: Platforms, AI, Culture
 
 <div class="profile-card">
 <div class="profile-layout">
@@ -37,13 +37,13 @@ With a background as Product Manager in the automotive industry and extensive ex
 </div>
 <div class="profile-text">
 
-Kaj is a creative software consultant with the ability to quickly understand domains and problems — and communicate clearly around them. He takes active roles in Communities of Practice, shares solutions and ways of working that benefit beyond his immediate team.
+Kaj is a creative software consultant with the ability to quickly understand domains and problems, and communicate clearly around them. He takes active roles in Communities of Practice, shares solutions and ways of working that benefit beyond his immediate team.
 
 His focus has evolved beyond specific programming languages toward architecting developer platforms, building quality with AI and creating strong team cultures. Kaj has led the groundwork for an Internal Developer Platform in the connected vehicle space, designing how teams consume platform services with high focus on developer feedback and community-building around the platform.
 
-Kaj is a strong proponent of AI-enabled development — not just code completion, but transforming how teams work with AI agents, swarming on architecture and building guardrails for quality. He's equally passionate about ensemble programming, psychological safety and creating collaborative environments where teams continuously learn and improve.
+Kaj is a strong proponent of AI-enabled development. He focuses on transforming how teams work with AI agents, swarming on architecture and building guardrails for quality. He is equally passionate about ensemble programming, psychological safety and creating collaborative environments where teams continuously learn and improve.
 
-With 15+ years of experience spanning cloud-native architecture, team leadership and platform engineering, Kaj combines a profound DevOps mindset with keen architectural thinking. He describes himself as a technology-agnostic builder — the right tool for the right problem.
+With 15+ years of experience spanning cloud-native architecture, team leadership and platform engineering, Kaj combines a profound DevOps mindset with keen architectural thinking. He describes himself as a technology-agnostic builder: the right tool for the right problem.
 
 Read Kaj's thoughts at [teashaped.dev →](https://teashaped.dev)
 <br>[Kaj on LinkedIn →](https://www.linkedin.com/in/kajfehlhaber/)
